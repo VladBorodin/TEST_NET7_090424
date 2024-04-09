@@ -1,0 +1,14 @@
+C:\DEL\ST\STUDIE\cs\test_junior\bin\Debug\net7.0\test_junior.exe
+C:\DEL\ST\STUDIE\cs\test_junior\bin\Debug\net7.0\test_junior.deps.json
+C:\DEL\ST\STUDIE\cs\test_junior\bin\Debug\net7.0\test_junior.runtimeconfig.json
+C:\DEL\ST\STUDIE\cs\test_junior\bin\Debug\net7.0\test_junior.dll
+C:\DEL\ST\STUDIE\cs\test_junior\bin\Debug\net7.0\test_junior.pdb
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.AssemblyInfoInputs.cache
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.AssemblyInfo.cs
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.csproj.CoreCompileInputs.cache
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.dll
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\refint\test_junior.dll
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.pdb
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\test_junior.genruntimeconfig.cache
+C:\DEL\ST\STUDIE\cs\test_junior\obj\Debug\net7.0\ref\test_junior.dll

@@ -1,0 +1,35 @@
+08.04.2024 14:07:20: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:10:05: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:11:01: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:15:46: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:19:25: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:19:32: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:21:23: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:38:54: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 14:41:32: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 15:36:50: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 16:10:51: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 9:43:52: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 9:44:06: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 9:57:37: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 9:58:00: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 9:58:51: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:00:30: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:01:18: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:03:09: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:15:05: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:16:21: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:17:18: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:43:43: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:46:11: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:51:46: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:54:38: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:58:58: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:59:21: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 10:59:29: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+09.04.2024 14:48:41: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:48:41: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:48:41: program start
+09.04.2024 14:48:41: args taken --file-log --file-output --time-start-07.04.2024 --time-end-08.04.2024 --address-start-110 --address-mask-120 
+09.04.2024 14:48:41: file fileOutput.txt created
+09.04.2024 14:48:41: program end

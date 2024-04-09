@@ -1,0 +1,153 @@
+08.04.2024 13:12:06: file -fileJournal- at path -Source\Journal\fileJournal.txt- is not found
+08.04.2024 16:16:54: file -fileJournal- data error, The input string '1аеы0' was not in a correct format.
+08.04.2024 16:16:54: file -fileJournal- data error, abnormal address -1аеы0.151.169.142- was found
+09.04.2024 7:54:38: file -fileJournal- data error, abnormal address -- was found
+09.04.2024 7:54:57: file -fileJournal- data error, abnormal address -- was found
+09.04.2024 7:58:03: file -fileJournal- data error, abnormal address -- was found
+09.04.2024 8:07:03: file -fileJournal- data error, abnormal address -- was found
+09.04.2024 13:21:51: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:21:51: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:21:51: program start
+09.04.2024 13:22:18: args taken --file-log --file-output --time-start09.04.2024 --address-start120 
+09.04.2024 13:22:21: file fileOutput.txt created
+09.04.2024 13:22:21: program end
+09.04.2024 13:22:39: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:22:39: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:22:39: program start
+09.04.2024 13:22:39: args taken --file-log --file-output --time-start09.04.2024 --address-start-120 
+09.04.2024 13:22:39: file fileOutput.txt created
+09.04.2024 13:22:39: program end
+09.04.2024 13:22:49: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:22:49: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:22:49: program start
+09.04.2024 13:23:35: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:23:35: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:23:35: program start
+09.04.2024 13:40:58: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:40:58: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:40:58: program start
+09.04.2024 13:41:33: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:41:33: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:41:33: program start
+09.04.2024 13:46:24: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:46:24: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:46:24: program start
+09.04.2024 13:47:25: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:47:25: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:47:25: program start
+09.04.2024 13:48:00: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:48:00: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:48:00: program start
+09.04.2024 13:49:50: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:49:50: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:49:50: program start
+09.04.2024 13:50:54: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:50:54: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:50:54: program start
+09.04.2024 13:51:19: args taken --file-log --file-output --time-start09.04.2024 --address-start-120 
+09.04.2024 13:51:25: file fileOutput.txt created
+09.04.2024 13:51:25: program end
+09.04.2024 13:55:10: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:55:10: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:55:10: program start
+09.04.2024 13:55:10: args taken --file-log --file-output --time-start09.04.2024 --address-start-120 
+09.04.2024 13:55:10: file fileOutput.txt created
+09.04.2024 13:55:10: program end
+09.04.2024 13:59:06: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:59:06: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:59:06: program start
+09.04.2024 13:59:16: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 13:59:16: file fileOutput.txt created
+09.04.2024 13:59:16: program end
+09.04.2024 13:59:45: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 13:59:45: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 13:59:45: program start
+09.04.2024 13:59:45: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 13:59:48: file fileOutput.txt created
+09.04.2024 13:59:49: program end
+09.04.2024 14:00:11: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:00:11: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:00:11: program start
+09.04.2024 14:00:11: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:01:46: file fileOutput.txt created
+09.04.2024 14:01:46: program end
+09.04.2024 14:01:59: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:01:59: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:01:59: program start
+09.04.2024 14:01:59: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:02:02: file fileOutput.txt created
+09.04.2024 14:02:02: program end
+09.04.2024 14:02:11: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:02:11: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:02:11: program start
+09.04.2024 14:02:11: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:03:34: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:03:34: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:03:34: program start
+09.04.2024 14:03:34: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:06:00: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:06:00: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:06:00: program start
+09.04.2024 14:06:00: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:06:09: file fileOutput.txt created
+09.04.2024 14:06:09: program end
+09.04.2024 14:09:23: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:09:23: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:09:23: program start
+09.04.2024 14:09:23: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:09:23: file fileOutput.txt created
+09.04.2024 14:09:23: program end
+09.04.2024 14:14:38: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:14:38: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:14:38: program start
+09.04.2024 14:17:51: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:17:51: file fileOutput.txt created
+09.04.2024 14:17:51: program end
+09.04.2024 14:18:06: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:18:06: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:18:06: program start
+09.04.2024 14:18:40: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:18:40: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:18:40: program start
+09.04.2024 14:18:40: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:18:40: file fileOutput.txt created
+09.04.2024 14:18:40: program end
+09.04.2024 14:18:55: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:18:55: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:18:55: program start
+09.04.2024 14:18:55: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:18:55: file fileOutput.txt created
+09.04.2024 14:18:55: program end
+09.04.2024 14:19:22: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:19:22: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:19:22: program start
+09.04.2024 14:20:22: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:20:22: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:20:22: program start
+09.04.2024 14:26:41: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:26:41: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:26:41: program start
+09.04.2024 14:26:52: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:26:52: file fileOutput.txt created
+09.04.2024 14:26:52: program end
+09.04.2024 14:29:01: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:29:01: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:29:01: program start
+09.04.2024 14:29:01: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-end-120 
+09.04.2024 14:30:49: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:30:49: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:30:49: program start
+09.04.2024 14:30:49: args taken --file-log --file-output --time-start07.04.2024 --time-end08.04.2024 --address-start-110 --address-mask-120 
+09.04.2024 14:30:53: file fileOutput.txt created
+09.04.2024 14:30:53: program end
+09.04.2024 14:31:49: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:31:49: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:31:49: program start
+09.04.2024 14:31:49: args taken --file-log --file-output --time-start-07.04.2024 --time-end-08.04.2024 --address-start-110 --address-mask-120 
+09.04.2024 14:31:49: file fileOutput.txt created
+09.04.2024 14:31:49: program end
+09.04.2024 14:45:59: file fileLog.txt is not found, created new file fileLog.txt
+09.04.2024 14:45:59: file fileOutput.txt is not found, created new file fileOutput.txt
+09.04.2024 14:45:59: program start
+09.04.2024 14:45:59: file fileOutput.txt created
+09.04.2024 14:45:59: program end
